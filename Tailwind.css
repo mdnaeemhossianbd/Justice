@@ -1,0 +1,7 @@
+@import "tailwindcss"
+
+
+
+@utility {
+  bg: url('./image/banner.png');
+}
